@@ -1,0 +1,8 @@
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\bin\Debug\TestMyDatabaseTech.exe
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\bin\Debug\TestMyDatabaseTech.pdb
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.Form1.resources
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.Properties.Resources.resources
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.csproj.GenerateResource.Cache
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.exe
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.pdb
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.csprojResolveAssemblyReference.cache
