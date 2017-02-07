@@ -6,3 +6,4 @@ D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabas
 D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.exe
 D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.pdb
 D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\obj\x86\Debug\TestMyDatabaseTech.csprojResolveAssemblyReference.cache
+D:\vc2010_proj\TestMyDatabaseTech\TestMyDatabaseTech\bin\Debug\TestMyDatabaseTech.exe.config
